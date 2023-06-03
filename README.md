@@ -37,6 +37,6 @@ stored model size ~ 150MB
 ## CNN backbone paper references
 
 FBNet [pdf](https://arxiv.org/pdf/1812.03443.pdf) [github](https://github.com/facebookresearch/mobile-vision) \
-EfficientNet [pdf](https://arxiv.org/pdf/1905.11946.pdf) [github]\
-Mobilenet [pdf](https://arxiv.org/pdf/1704.04861.pdf)
+EfficientNet [pdf](https://arxiv.org/pdf/1905.11946.pdf) [github](https://github.com/lukemelas/EfficientNet-PyTorch) \
+Mobilenet [pdf](https://arxiv.org/pdf/1704.04861.pdf)\
 Mobilenet v2 [github](https://github.com/d-li14/mobilenetv2.pytorch)
