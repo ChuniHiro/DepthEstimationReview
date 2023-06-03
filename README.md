@@ -5,33 +5,33 @@ DepthEstimationReview
 ## Feature learning - SSL Transformer
 
 ### DINOv2
-DINOv2: State-of-the-art computer vision models with self-supervised learning
-[[Website]](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)
-[[github]](https://github.com/facebookresearch/dinov2)
-[[paper]](https://arxiv.org/pdf/2304.07193.pdf)
-stored model size ~ 1GB
+DINOv2: State-of-the-art computer vision models with self-supervised learning \
+[[Website]](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) \
+[[github]](https://github.com/facebookresearch/dinov2) \
+[[paper]](https://arxiv.org/pdf/2304.07193.pdf) \
+stored model size ~ 1GB 
 
 ### Adaptive Bins
 
-[[github]](https://github.com/facebookresearch/dinov2)
-[[paper]](https://arxiv.org/pdf/2304.07193.pdf)
+[[github]](https://github.com/facebookresearch/dinov2)\
+[[paper]](https://arxiv.org/pdf/2304.07193.pdf)\
 stored model size ~ 940MB
 
 ### DPT
-Vision Transformers for Dense Prediction
-[[paper]](https://arxiv.org/pdf/2103.13413.pdf)
+Vision Transformers for Dense Prediction\
+[[paper]](https://arxiv.org/pdf/2103.13413.pdf)\
 [[github]](https://github.com/isl-org/DPT)
 
 # Low Latency CNN 
 
 ## DORN
-[[pdf]](https://arxiv.org/pdf/1806.02446.pdf)
+[[pdf]](https://arxiv.org/pdf/1806.02446.pdf)\
 [[github]](https://github.com/hufu6371/DORN)
 
 ## Many Depth
-self supervised && lightweight
-[[pdf]](https://arxiv.org/pdf/2104.14540.pdf)
-[[github]](https://github.com/nianticlabs/manydepth)
+self supervised && lightweight\
+[[pdf]](https://arxiv.org/pdf/2104.14540.pdf)\
+[[github]](https://github.com/nianticlabs/manydepth)\
 stored model size ~ 150MB
 
 ## CNN backbone paper references
