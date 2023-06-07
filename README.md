@@ -1,29 +1,30 @@
 DepthEstimationReview
 
 
-# High performance
-## Feature learning - SSL Transformer
+High performance
 
-### DINOv2
+# Feature learning - SSL Transformer
+
+## DINOv2
 DINOv2: State-of-the-art computer vision models with self-supervised learning \
 [[Website]](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) \
 [[github]](https://github.com/facebookresearch/dinov2) \
 [[paper]](https://arxiv.org/pdf/2304.07193.pdf) \
 stored model size ~ 1GB 
 
-### Adaptive Bins
+## Adaptive Bins
 
 [[github]](https://github.com/facebookresearch/dinov2)\
 [[paper]](https://arxiv.org/pdf/2304.07193.pdf)\
 stored model size ~ 940MB
 
-### DPT
+## DPT
 Vision Transformers for Dense Prediction\
 [[paper]](https://arxiv.org/pdf/2103.13413.pdf)\
 [[github]](https://github.com/isl-org/DPT)
 [[github(MiDas)]]https://github.com/isl-org/MiDaS
 
-### Midas
+## Midas
 [[github]](https://github.com/isl-org/MiDaS)
 
 # Low Latency CNN 
