@@ -21,18 +21,43 @@ stored model size ~ 940MB
 Vision Transformers for Dense Prediction\
 [[paper]](https://arxiv.org/pdf/2103.13413.pdf)\
 [[github]](https://github.com/isl-org/DPT)
+[[github(MiDas)]]https://github.com/isl-org/MiDaS
+
+### Midas
+[[github]](https://github.com/isl-org/MiDaS)
 
 # Low Latency CNN 
 
-## DORN
+## DenseDepth (2018)
+[[pdf]](https://arxiv.org/abs/1812.11941) High Quality Monocular Depth Estimation via Transfer Learning 
+[[github]]https://github.com/ialhashim/DenseDepth
+
+## DORN (CVPR 2018)
 [[pdf]](https://arxiv.org/pdf/1806.02446.pdf)\
 [[github]](https://github.com/hufu6371/DORN)
 
-## Many Depth
+## Many Depth (CVPR 2021)
 self supervised && lightweight\
 [[pdf]](https://arxiv.org/pdf/2104.14540.pdf)\
 [[github]](https://github.com/nianticlabs/manydepth)\
 stored model size ~ 150MB
+
+## Monodepth
+[[github]](https://github.com/nianticlabs/monodepth2)
+
+## SDME
+[[github]](https://github.com/ZM-Zhou/SMDE-Pytorch)
+### Learning Occlusion-Aware Coarse-to-Fine Depth Map for Self-supervised Monocular Depth Estimation
+[[pdf]](https://arxiv.org/abs/2203.10925) \
+[[github]]
+
+### Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation
+[[pdf]](https://arxiv.org/abs/2209.07088) \
+[[github]]
+
+
+## Vida (PackNet / DeFiNe)
+[[github]](https://github.com/TRI-ML/vidar#license)
 
 ## CNN backbone paper references
 
